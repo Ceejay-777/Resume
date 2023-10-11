@@ -1,5 +1,5 @@
-import MyImage from "../../reuseables/MyImage"
-import Socials from "../../reuseables/socials";
+import MyImage from "../../reuseables/MyImage";
+import Socials from "../../reuseables/Socials";
 
 const SectionIntro = () => {
   return (
@@ -18,4 +18,4 @@ const SectionIntro = () => {
   );
 };
 
-export default SectionIntro
+export default SectionIntro;
